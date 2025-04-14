@@ -1,0 +1,26 @@
+{
+    "title": "Mobile Wallet Offer",
+    "is_contest": false,
+    "is_tiered_offer": false,
+    "is_mobile_wallet_related": true,
+    "has_annual_fee": true,
+    "requires_physical_location": false,
+    "includes_amazon_cards": false,
+    "includes_aeroplan_cards": true,
+    "is_location_based_promotion": false,
+    "offers_points": true,
+    "offers_cashback": false,
+    "target_consumer": "consumer",
+    "payout_structure": "one-off",
+    "campaign_duration": "weeks",
+    "requires_opt_in": true,
+    "external_partners": [],
+    "distribution_channel": "launched within cards",
+    "qualification_type": "multiple_transactions",
+    "qualification_basis": "amount_spent",
+    "included_products": "multiple",
+    "included_brands": ["TD"],
+    "included_reward_types": ["aeroplan"],
+    "eligible_account_type": "new_accounts"
+  }
+  
