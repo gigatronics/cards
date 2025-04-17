@@ -8,6 +8,7 @@ does it involve physical location?
 Amazon cards or no?
 aero cards?
 location based promotion? (branch 1020)
+
 consumer or business or both?
 one or multiple payouts (one-off or periodic fulfillments)
 campaign run for days or weeks or months?
