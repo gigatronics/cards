@@ -1,0 +1,26 @@
+{
+  "filename": "aero 10 yr contest",
+  "title": "Aeroplan 10 Year Anniversary Contest",
+  "is_contest": true,
+  "is_tiered_offer": true,
+  "is_mobile_wallet_related": false,
+  "has_annual_fee": true,
+  "requires_physical_location": false,
+  "includes_amazon_cards": false,
+  "includes_aeroplan_cards": true,
+  "is_location_based_promotion": false,
+  "points_or_cashback_or_both": "points",
+  "consumer_or_business_or_both": "both",
+  "payout_structure": "one-off",
+  "campaign_duration": "days",
+  "requires_opt_in": true,
+  "external_partners": ["Air Canada", "Aeroplan"],
+  "distribution_channel": "launched within cards",
+  "qualification_transaction_count": "single",
+  "qualification_basis": "form_submission",
+  "single_or_multiple_products": "multiple",
+  "td_or_mbna_products": "TD",
+  "td_rewards_or_aero_or_both": "aero",
+  "new_accounts_or_transfers_or_both": "both"
+}
+  

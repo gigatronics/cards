@@ -1,0 +1,34 @@
+[public]
+
+is this a contest
+is mobile wallet related?
+is it a tiered offer? 
+does it involve annual fee?
+does it involve physical location?
+Amazon cards or no?
+aero cards?
+location based promotion? (branch 1020)
+
+consumer or business or both?
+one or multiple payouts (one-off or periodic fulfillments)
+campaign run for days or weeks or months?
+do customer need to opt-in, or sign-up?
+any external partners involved (e.g. AC or expedia)?
+launched within cards, or partner with banking / wealth?
+qualification requires one or multiple transactions?
+qualification based on amount spend or # of transactions?
+single or multiple products?
+TD or MBNA products?
+TD rewards or aero products or both?
+New accounts or product transfers or both?
+
+
+
+[private]
+
+PO's name?
+acquisition or engagement?
+net new or bau campaigns
+is it targeted?
+require TSYS construct or SPEED/COPS fulfillment?
+

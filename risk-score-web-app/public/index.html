@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Risk Score Web App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Risk Score Analyzer</h1>
+        <form id="riskScoreForm">
+            <label for="riskScore">Enter Risk Score:</label>
+            <input type="number" id="riskScore" name="riskScore" required>
+            <button type="submit">Analyze</button>
+        </form>
+        <div id="result" style="display:none;">
+            <h2>Analysis Result</h2>
+            <p id="score"></p>
+            <p id="reasons"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
